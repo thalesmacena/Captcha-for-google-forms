@@ -2,8 +2,7 @@
  * Updates the form field and its validation, placing a new CAPTCHA.
  */
 function updateCaptcha() {
-  var idForm = 'id'; // Replace id with the target form id
-  var form = FormApp.openById(idForm);
+  var formulario = FormApp.getActiveForm(); // Get the current form
 
   var captcha = makeCaptcha(length); // Replace length with the number of characters you want in the stringCalls
 
