@@ -5,7 +5,7 @@ This script changes a question on you google form, making a capcha validation qu
 
 ## Steps
 
-### Copy Script
+### Copy Script KKKKKKKKKKKKKKKKKKKKKKKKK
 
 First copy the three functions from the script.js file to your google script of the chosen form.
 
