@@ -1,11 +1,11 @@
-# Captcha-for-google-forms kkkkk
+# Captcha-for-google-forms kkkZk
 
 This script changes a question on you google form, making a capcha validation question that requires the user to enter an random string (of size and characters chosen by you), which is changed according to a time trigger you choose. Helping to protect your google form from attacks.
 **Under construction**
 
 ## Steps
 
-### Copy Script KKKKKKKKKKKKKKKKKKKKKKKKK
+### Copy Script
 
 First copy the three functions from the script.js file to your google script of the chosen form.
 
